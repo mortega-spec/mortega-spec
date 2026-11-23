@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mortega-spec">
-    <img src="https://raw.githubusercontent.com/mog-corporation/.github/main/assets/brand/avatar-mortega-spec-ceo-arq-512-r1.png" width="136" alt="🔶 D. Miguel Ortega · MoG CEo & ARQ" />
+    <img src="./assets/avatar-mortega-spec-ceo-arq-512-r1.png" width="136" alt="🔶 D. Miguel Ortega · MoG CEo & ARQ" />
   </a>
 </p>
 
@@ -35,6 +35,6 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mog-corporation/.github/main/assets/brand/mog-corporation-emblem-256-r1.png" width="72" alt="MoG CORPORATION Emblem R1" /><br/>
+  <img src="./assets/mog-corporation-emblem-256-r1.png" width="72" alt="MoG CORPORATION Emblem R1" /><br/>
   <sub><strong>🔶 MoG CEo & ARQ</strong> · Presidencia y Dirección Ejecutiva · <strong>MoG CORPORATION</strong></sub>
 </p>
