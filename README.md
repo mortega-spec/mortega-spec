@@ -1,22 +1,32 @@
+<p align="center">
+  <a href="https://github.com/mortega-spec">
+    <img src="https://raw.githubusercontent.com/mog-corporation/.github/main/assets/brand/avatar-mortega-spec-ceo-arq-512-r1.png" width="136" alt="🔶 D. Miguel Ortega · MoG CEo & ARQ" />
+  </a>
+</p>
+
 # 🔶 D. Miguel Ortega (`MoG CEo & ARQ`) · Presidencia y Arquitectura · MoG CORPORATION
 
-**Identidad Soberana:** `mortega-spec` (`🔶 MoG CEo & ARQ`)  
+**Identidad Soberana:** [`mortega-spec`](https://github.com/mortega-spec) (`🔶 MoG CEo & ARQ`)  
 **Holding Empresarial:** **MoG CORPORATION** · **01 - Eco-Logics Control Clima S.L.** · **02 - Ingeteyco S.L.** · **Inversiones MoG S.L.**  
+**Sede Corporativa GitHub:** [`https://github.com/mog-corporation`](https://github.com/mog-corporation)
 
 ---
 
 ## 1. Autoridad Rectora y Federación Canónica (`31/10/2026`)
-- Todas las Reglas de Organización (`governance/control-plane/reglas-organizacion.active.json` en `mog-corporation/mog-universe`) emanan de Presidencia y rigen de forma uniforme en todas las empresas del grupo, cuentas corporativas (`m.ortega@eco-logics.es`, `m.ortega@ingeteyco.com`, `mog.automation@gmail.com`) y plataformas de agentes (**Claude**, **ChatGPT/Codex**, **Gemini/Antigravity**, **Qoder**, **Copilot**).
-- **Trato Presidencial e Invariantes Visuales:** Trato obligatorio de **usted** y **cero complacencia**; grafía inmutable **`MoG`** y **`MoG CEo`**; emblema `🔶` reservado en exclusiva a Presidencia.
+- Las Reglas de Organización de **MoG CORPORATION** emanan directamente de Presidencia y rigen de forma uniforme en todas las empresas del grupo, sus identidades corporativas y las distintas plataformas agénticas integradas (**Claude**, **ChatGPT/Codex**, **Gemini/Antigravity**, **Qoder**, **Copilot**).
+- **Trato Presidencial e Invariantes Visuales:** trato formal de **usted**, cero frases de complacencia, grafía inmutable **`MoG`** y **`MoG CEo`** (`o` minúscula), Design System **«El Norte»** y emblema **`🔶`** reservado en exclusiva a Presidencia.
 
-## 2. Arquitectura Tripartita de Cuentas GitHub en `mog-corporation`
+## 2. Arquitectura Cuatripartita de Cuentas GitHub en `mog-corporation`
+
 | Cuenta GitHub | Grupo de Credencial | Rol Institucional |
 |---|---|---|
-| [`mortega-spec`](https://github.com/mortega-spec) | `mog-ceo-eco` | Presidencia, Arquitectura Rectora (`🔶 MoG CEo & ARQ`), decisiones de seguridad/IAM y Federación Eco-Logics / Ingeteyco |
-| [`mogautomation-arch`](https://github.com/mogautomation-arch) | `mog-automation` | Escritura técnica, empuje de ramas (`WIP=1`), sincronización multi-repo y ejecución MESA (`🔸 MoGbot...`) |
-| [`mog-verificador`](https://github.com/mog-verificador) | `mog-verificador` | Verificador Independiente del Stack (`writer != verifier`, solo lectura y revisión en los repos de `mog-corporation`) |
+| [`mortega-spec`](https://github.com/mortega-spec) | `mog-ceo-eco` | Presidencia, Arquitectura Rectora (`🔶 MoG CEo & ARQ`), decisiones de seguridad/IAM y Federación del Holding |
+| [`mogautomation-arch`](https://github.com/mogautomation-arch) | `mog-automation` | Escritura técnica, empuje de ramas (`WIP=1`), sincronización multi-repo y orquestación MESA (`🔸 MoGbot...`) |
+| [`mog-verificador`](https://github.com/mog-verificador) | `mog-verificador` | Verificador Independiente del Stack (`writer != verifier`, medición de `HEAD` exacto y dictámenes en solo lectura) |
+| [`Ingeteyco`](https://github.com/Ingeteyco) | `02-ingeteyco` | Identidad corporativa de **02 - Ingeteyco S.L.** (Ingeniería Industrial, PCI y Telegestión) |
 
 ## 3. Canales Soberanos de Gobierno
+- **Organización Pública:** [`mog-corporation`](https://github.com/mog-corporation) · [`mog-corporation/.github`](https://github.com/mog-corporation/.github)
 - **Anuncios Oficiales:** `mog-corporation/mog-universe/discussions/481`
 - **Tablón General y Padrón Activo:** `mog-corporation/mog-universe/discussions/482`
 - **Banco de Ideas e I+D+i:** `mog-corporation/mog-universe/discussions/483`
@@ -24,5 +34,7 @@
 - **Tablero HMI Vivo (`FULL_LIVE_AUTO_MoG`):** `mog-corporation/mog-universe/issues/269`
 
 ---
-*Custodia Técnica:*  
-**`🔶 MoG CEo & ARQ`** (Presidencia y Dirección Ejecutiva · **MoG CORPORATION**)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mog-corporation/.github/main/assets/brand/mog-corporation-emblem-256-r1.png" width="72" alt="MoG CORPORATION Emblem R1" /><br/>
+  <sub><strong>🔶 MoG CEo & ARQ</strong> · Presidencia y Dirección Ejecutiva · <strong>MoG CORPORATION</strong></sub>
+</p>
